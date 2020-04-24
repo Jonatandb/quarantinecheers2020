@@ -23,7 +23,7 @@ Visited sites:
 
 - <a href="http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Thanks%20from%20Jonatandb" target="_blank">Text to ASCII Art Generator</a>
 
-- <a href="https://hub.docker.com/repository/docker/jonatandb/quarantinecheers2020" target="_blank">jonatandb/quarantinecheers2020 (Free download image on Docker Hub)</a>
+- <a href="https://hub.docker.com/r/jonatandb/quarantinecheers2020" target="_blank">jonatandb/quarantinecheers2020 (Free download image on Docker Hub)</a>
 
 ---
 
